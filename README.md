@@ -1,5 +1,4 @@
 # zadanie_woltair
-# smartres-system-testing
 
 cd into workfolder
 ```bsh
